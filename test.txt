@@ -1,1 +1,2 @@
 Este un fișier de versiunea 1. V1
+Pentru a 6 comanda git diff
