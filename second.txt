@@ -2,4 +2,4 @@ Pentru git pull. TEST
 
 Pentru comanda git stash
 
-Pentru comanda git fetch.
+Pentru comanda git fetch..
