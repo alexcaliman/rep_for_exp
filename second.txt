@@ -1,2 +1,3 @@
 Pentru git pull. TEST
 
+Pentru comanda git stash
